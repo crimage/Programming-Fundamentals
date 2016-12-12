@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\bin\Debug\09.ReversedChars.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\bin\Debug\09.ReversedChars.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\bin\Debug\09.ReversedChars.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\obj\Debug\09.ReversedChars.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\obj\Debug\09.ReversedChars.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09.ReversedChars\obj\Debug\09.ReversedChars.pdb

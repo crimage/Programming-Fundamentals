@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\bin\Debug\thisIsIt9.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\bin\Debug\thisIsIt9.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\bin\Debug\thisIsIt9.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\obj\Debug\thisIsIt9.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\obj\Debug\thisIsIt9.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt9\bin\Debug\15.FastPrimeChecker.exe.config

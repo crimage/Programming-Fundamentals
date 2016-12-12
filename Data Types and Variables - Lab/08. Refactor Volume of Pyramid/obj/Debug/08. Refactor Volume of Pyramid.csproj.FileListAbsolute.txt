@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.pdb

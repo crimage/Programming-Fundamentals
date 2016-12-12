@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\bin\Debug\thisIsIt8.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\bin\Debug\thisIsIt8.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\bin\Debug\thisIsIt8.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\obj\Debug\14.IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\obj\Debug\thisIsIt8.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt8\obj\Debug\thisIsIt8.pdb

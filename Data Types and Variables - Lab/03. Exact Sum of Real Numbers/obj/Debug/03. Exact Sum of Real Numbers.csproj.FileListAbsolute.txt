@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

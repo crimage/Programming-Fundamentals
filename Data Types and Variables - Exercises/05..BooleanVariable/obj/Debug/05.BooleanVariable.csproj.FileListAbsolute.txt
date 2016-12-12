@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\bin\Debug\test1.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\bin\Debug\test1.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\bin\Debug\test1.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\obj\Debug\test1.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\test1\obj\Debug\test1.pdb

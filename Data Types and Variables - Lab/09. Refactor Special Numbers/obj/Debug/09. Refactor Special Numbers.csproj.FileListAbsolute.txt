@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\obj\Debug\09. Refactor Special Numbers.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.pdb

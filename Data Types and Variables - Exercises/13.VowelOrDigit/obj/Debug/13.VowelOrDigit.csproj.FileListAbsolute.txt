@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\bin\Debug\thisIsIt7.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\bin\Debug\thisIsIt7.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\bin\Debug\thisIsIt7.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\obj\Debug\13.VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\obj\Debug\thisIsIt7.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt7\obj\Debug\thisIsIt7.pdb
