@@ -1,5 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt6\bin\Debug\thisIsIt6.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt6\bin\Debug\thisIsIt6.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt6\bin\Debug\thisIsIt6.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt6\obj\Debug\thisIsIt6.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\thisIsIt6\obj\Debug\thisIsIt6.pdb

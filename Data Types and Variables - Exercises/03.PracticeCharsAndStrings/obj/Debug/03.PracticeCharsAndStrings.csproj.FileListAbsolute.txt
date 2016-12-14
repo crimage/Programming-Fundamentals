@@ -1,6 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.csprojResolveAssemblyReference.cache
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.pdb
