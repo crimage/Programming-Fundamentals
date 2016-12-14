@@ -1,3 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.pdb

@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\07. Greeting\bin\Debug\_07.Greeting.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\07. Greeting\bin\Debug\_07.Greeting.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\07. Greeting\bin\Debug\_07.Greeting.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\07. Greeting\obj\Debug\_07.Greeting.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\07. Greeting\obj\Debug\_07.Greeting.pdb

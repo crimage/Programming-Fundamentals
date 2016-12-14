@@ -1,3 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb

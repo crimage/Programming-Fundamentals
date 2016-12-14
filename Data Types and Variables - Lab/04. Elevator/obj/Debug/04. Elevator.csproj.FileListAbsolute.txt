@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\bin\Debug\_04.Elevator.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\bin\Debug\_04.Elevator.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\bin\Debug\_04.Elevator.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\obj\Debug\04. Elevator.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\obj\Debug\_04.Elevator.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\PF  - September 2016\04. Elevator\obj\Debug\_04.Elevator.pdb

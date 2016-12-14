@@ -1,3 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.pdb
