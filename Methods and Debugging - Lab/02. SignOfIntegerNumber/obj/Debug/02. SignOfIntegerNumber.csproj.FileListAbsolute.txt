@@ -1,5 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. SignOfIntegerNumber\obj\Debug\_02.SignOfIntegerNumber.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\02. SignOfIntegerNumber\obj\Debug\_02.SignOfIntegerNumber.pdb

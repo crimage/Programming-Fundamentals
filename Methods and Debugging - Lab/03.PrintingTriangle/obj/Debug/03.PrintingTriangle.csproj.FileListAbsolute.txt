@@ -1,6 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.csprojResolveAssemblyReference.cache
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.pdb

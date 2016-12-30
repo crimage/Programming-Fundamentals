@@ -1,6 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.csprojResolveAssemblyReference.cache
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb
