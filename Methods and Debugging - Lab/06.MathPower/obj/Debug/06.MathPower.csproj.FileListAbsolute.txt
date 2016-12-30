@@ -1,0 +1,5 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06.MathPower\bin\Debug\06.MathPower.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06.MathPower\bin\Debug\06.MathPower.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06.MathPower\bin\Debug\06.MathPower.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06.MathPower\obj\Debug\06.MathPower.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\PF  - September 2016\06.MathPower\obj\Debug\06.MathPower.pdb
